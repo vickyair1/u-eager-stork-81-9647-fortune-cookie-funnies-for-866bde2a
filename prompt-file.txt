@@ -1,0 +1,1 @@
+Write the funniest fortune cookie message aimed at a software engineer, a single line of at most 120 characters, as a deterministic Python program that writes exactly that line to /output/entry.txt.
